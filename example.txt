@@ -4,3 +4,6 @@ When I make a change to the file I have to 'add' that file again and 'commit'
 including a comment on the change: git commit -m 'description of change'
 
 'git log HEAD~1' will show changes on the previous version of the file
+
+to creat a repository on github, after creating it:
+$ git remote add origin https://github.com/jvillasr/gitworkshop.git
